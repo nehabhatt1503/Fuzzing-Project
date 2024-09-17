@@ -2,7 +2,7 @@
 # ![image](https://github.com/user-attachments/assets/7de63969-e7cd-4878-8c44-61c3c053c6f3)
 # ![image](https://github.com/user-attachments/assets/0af59fda-3561-4bf7-b432-6d97ae74b04e)
 
-##### DIRECTORY FUZZING - Directory Fuzzing helps us discover hidden directories and folders on the web server. ffuf has found a directory called 'admin' directory. 
+##### DIRECTORY FUZZING - Directory Fuzzing helps us discover hidden directories and folders on the web server. ffuf has found a directory called 'admin'. 
 # ![image](https://github.com/user-attachments/assets/80010529-9a0e-4d20-8a38-da563ed9d003)
 
 
