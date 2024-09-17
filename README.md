@@ -19,8 +19,10 @@ Fuzzing or fuzz testing is an automated software used to test error handling of 
 ### Fuzzer: A software tool that automates generating and sending payloads to a web application and analyzing the responses. Example- ffuf, wfuzz, Burp Suite.
 --- 
 
+
 The most commonly used wordlists for fuzzing web directories and files from SecLists are:
-### ![image](https://github.com/user-attachments/assets/0af59fda-3561-4bf7-b432-6d97ae74b04e)
+#### ![image](https://github.com/user-attachments/assets/0af59fda-3561-4bf7-b432-6d97ae74b04e)
+
 
 
 ## How ffuf generally works:
