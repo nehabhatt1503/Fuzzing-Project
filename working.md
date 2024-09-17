@@ -2,13 +2,13 @@
 # ![image](https://github.com/user-attachments/assets/7de63969-e7cd-4878-8c44-61c3c053c6f3)
 # ![image](https://github.com/user-attachments/assets/0af59fda-3561-4bf7-b432-6d97ae74b04e)
 
-DIRECTORY FUZZING
+# DIRECTORY FUZZING - Directory Fuzzing helps us discover hidden directories and folders on the web server. ffuf has found a directory called 'admin' directory. 
 # ![image](https://github.com/user-attachments/assets/80010529-9a0e-4d20-8a38-da563ed9d003)
 
 
-FILE FUZZING
+#FILE FUZZING - File fuzzing dives deeper into discovering specific files within those directories or in the web application's root.
 # ![image](https://github.com/user-attachments/assets/603b71a3-c268-4e95-90b0-4be2214b968d)
-# ![image](https://github.com/user-attachments/assets/9f0d87aa-a41c-43dd-be8d-6cd33da23800)
+# ![image](https://github.com/user-attachments/assets/9f0d87aa-a41c-43dd-be8d-6cd33da23800) - Run both links of index.php and admin.php. You will see which website is available.
 
 
 
