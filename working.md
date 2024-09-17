@@ -8,7 +8,8 @@
 
 ##### FILE FUZZING - File fuzzing dives deeper into discovering specific files within those directories or in the web application's root.
 # ![image](https://github.com/user-attachments/assets/603b71a3-c268-4e95-90b0-4be2214b968d)
-# ![image](https://github.com/user-attachments/assets/9f0d87aa-a41c-43dd-be8d-6cd33da23800) - Run both links of index.php and admin.php. You will see which website is available.
+# ![image](https://github.com/user-attachments/assets/9f0d87aa-a41c-43dd-be8d-6cd33da23800) 
+##### Run both links index.php and admin.php to see which website is available.
 
 
 
