@@ -16,6 +16,7 @@
 
 ### VHOST FUZZING - To scan for VHosts, without manually adding the entire wordlist to our /etc/hosts, we will be fuzzing HTTP headers, specifically the Host: header.
 # ![image](https://github.com/user-attachments/assets/23d9f8f6-4199-4276-9fb8-5aed9e723ac8)
+# ![image](https://github.com/user-attachments/assets/3e547434-8725-48d2-8b0e-55a2c606ac02)
 
 # ![image](https://github.com/user-attachments/assets/7f7dbb56-13bc-426d-8dbd-790bee9578f8)
 # ![image](https://github.com/user-attachments/assets/5606c719-3fbe-4fa4-8978-6a7cb4caa609)
@@ -25,5 +26,4 @@
 # ![image](https://github.com/user-attachments/assets/56cfbf66-c6d4-44f5-886d-bb9af6bce5c9)
 # ![image](https://github.com/user-attachments/assets/d3863ab4-9632-4505-bfe6-61356e4465f2)
 # ![image](https://github.com/user-attachments/assets/4b5aa6f9-77f3-4d85-b77f-e61c50117f5c)
-# ![image](https://github.com/user-attachments/assets/3e547434-8725-48d2-8b0e-55a2c606ac02)
 
