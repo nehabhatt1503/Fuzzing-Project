@@ -1,18 +1,17 @@
-##### DIRECTORY FUZZING - Directory Fuzzing helps us discover hidden directories and folders on the web server. ffuf has found a directory called 'admin'. 
+### DIRECTORY FUZZING - Directory Fuzzing helps us discover hidden directories and folders on the web server. ffuf has found a directory called 'admin'. 
 # ![image](https://github.com/user-attachments/assets/80010529-9a0e-4d20-8a38-da563ed9d003)
 
 
-##### FILE FUZZING - File fuzzing dives deeper into discovering specific files within those directories or in the web application's root.
+### FILE FUZZING - File fuzzing dives deeper into discovering specific files within those directories or in the web application's root.
 # ![image](https://github.com/user-attachments/assets/603b71a3-c268-4e95-90b0-4be2214b968d)
-# ![image](https://github.com/user-attachments/assets/9f0d87aa-a41c-43dd-be8d-6cd33da23800) 
-##### Run both links index.php and admin.php to see which website is available.
+# ![image](https://github.com/user-attachments/assets/9f0d87aa-a41c-43dd-be8d-6cd33da23800)  - ##### Run both links index.php and admin.php to see which website is available.
 
 
-
-# ![image](https://github.com/user-attachments/assets/37f333a9-a0a5-43bf-94bb-15cefea9f9aa)
+### PARAMETER AND VALUE FUZZING - This technique focuses on manipulating the parameters and their values within web requests to uncover vulnerabilities in how the application processes input. Here, accessID is a parameter with the value "fuzzing"
+# ![image](https://github.com/user-attachments/assets/37f333a9-a0a5-43bf-94bb-15cefea9f9aa) 
 # ![image](https://github.com/user-attachments/assets/e3967500-3322-41db-98ff-54eb046fad91)
-# ![image](https://github.com/user-attachments/assets/7f7dbb56-13bc-426d-8dbd-790bee9578f8)
 # ![image](https://github.com/user-attachments/assets/23d9f8f6-4199-4276-9fb8-5aed9e723ac8)
+# ![image](https://github.com/user-attachments/assets/7f7dbb56-13bc-426d-8dbd-790bee9578f8)
 # ![image](https://github.com/user-attachments/assets/5a2f4c0a-7157-46d2-a914-16d3e34ec2df)
 # ![image](https://github.com/user-attachments/assets/282a7b02-1ec5-402c-aca3-607e30e8af82)
 # ![image](https://github.com/user-attachments/assets/56cfbf66-c6d4-44f5-886d-bb9af6bce5c9)
